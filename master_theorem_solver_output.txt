@@ -1,0 +1,10 @@
+Given Recurrence: T(n) = 3T(n/3) + n^2
+
+Extracted Parameters:
+a = 3
+b = 3
+f(n) = n^2
+
+n^(log_b a) = n^1
+Applicable Case: Case 3
+Time Complexity: Theta(n^2)
