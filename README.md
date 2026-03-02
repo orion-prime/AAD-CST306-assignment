@@ -1,4 +1,4 @@
-📘 Algorithm Analysis and Design Assignment
+📘 CST306 - Algorithm Analysis and Design Assignment
 
 This repository contains implementations for:
 
